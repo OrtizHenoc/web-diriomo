@@ -7,8 +7,12 @@ html {
 	padding: 0;
 }
 
-a {
+a, a:hover, a:visited{
+  color: black;
   text-decoration: none;
+}
+auto-group-lprq-m6i ,a, a:hover, a:visited{
+  color: white;
 }
 ul, li {
 	list-style: none;
@@ -784,7 +788,7 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
   border: solid 0.2rem #a0522d;
-  background-color: #d9d9d9;
+  background-color: #b4b3b3;
   flex-shrink: 0;
 }
 .main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .auto-group-18uq-QBU .vistavki-text-bWr {
@@ -798,7 +802,7 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
   border: solid 0.2rem #a0522d;
-  background-color: #d9d9d9;
+  background-color: #b4b3b3;
   flex-shrink: 0;
 }
 .main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .auto-group-18uq-QBU .vistavki-text-6Tc {
@@ -812,7 +816,7 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
   border: solid 0.2rem #a0522d;
-  background-color: #d9d9d9;
+  background-color: #b4b3b3;
   flex-shrink: 0;
 }
 .main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .auto-group-18uq-QBU .vistavki-text-z3C {
@@ -826,7 +830,7 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
   border: solid 0.2rem #a0522d;
-  background-color: #d9d9d9;
+  background-color: #b4b3b3;
   flex-shrink: 0;
 }
 .main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .auto-group-18uq-QBU .vistavki-text-gRp {
@@ -840,7 +844,7 @@ body {
   font-family: Roboto, 'Source Sans Pro';
   white-space: nowrap;
   border: solid 0.2rem #a0522d;
-  background-color: #d9d9d9;
+  background-color: #b4b3b3;
   flex-shrink: 0;
 }
 .main-page-Fuk .auto-group-ctuw-nrN .afisha-ohU .auto-group-apti-qu4 .vistavki-about-my4 {
