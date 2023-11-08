@@ -294,6 +294,9 @@ span label{
     font-weight: 700;
     line-height: normal;
 }
+.admon{
+  border-bottom: 4px solid var(--color_secundario);
+}
 .v178_269 {
     width: 100%;
     background: url("../images/v178_269.png");
