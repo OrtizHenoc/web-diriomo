@@ -11,7 +11,7 @@ a, a:hover, a:visited{
   color: black;
   text-decoration: none;
 }
-auto-group-lprq-m6i ,a, a:hover, a:visited{
+.auto-group-lprq-m6i ,.enlace-log, .enlace-log:hover, .enlace-log:visited{
   color: white;
 }
 ul, li {
@@ -22,7 +22,15 @@ input {
 }
 body {
   width: 144rem;
-}.main-page-Fuk {
+}
+.patrimonio-histrico-Zcv, .enlace-hist{
+  color: black;
+}
+
+.patrimonio-cultural-GGS, a, a:hover, a:visited{
+  color: black;
+}
+.main-page-Fuk {
   box-sizing: border-box;
   padding-top: 1.4rem;
   width: 100%;
